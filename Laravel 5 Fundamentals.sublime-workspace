@@ -1,0 +1,1014 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"flas",
+				"flash_message_important"
+			],
+			[
+				"Sess",
+				"Session::flash	Flash an Item in the Session"
+			],
+			[
+				"Se",
+				"Session::flush	Remove All Items from the Session"
+			],
+			[
+				"App",
+				"App\\Article"
+			],
+			[
+				"Auth",
+				"Auth::user	Get the currently authenticated user."
+			],
+			[
+				"Blads",
+				"Blade::section	Blade @section"
+			],
+			[
+				"Bladee",
+				"Blade::extends	Blade @extends"
+			],
+			[
+				"resour",
+				"is_resource"
+			],
+			[
+				"Bladf",
+				"Blade::foreach	Blade @foreach"
+			],
+			[
+				"requ",
+				"required"
+			],
+			[
+				"publi",
+				"published_at"
+			],
+			[
+				"Carbon",
+				"Carbon\\Carbon〔class〕"
+			],
+			[
+				"F",
+				"FormFacade〔class〕"
+			],
+			[
+				"BLades",
+				"Blade::section	Blade @section"
+			],
+			[
+				"Bladef",
+				"Blade::foreach	Blade @foreach"
+			],
+			[
+				"Blades",
+				"Blade::section	Blade @section"
+			],
+			[
+				"BLadee",
+				"Blade::extends	Blade @extends"
+			],
+			[
+				"Blad",
+				"Blade::yield	Blade @yield"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"arti",
+				"article"
+			],
+			[
+				"art",
+				"article"
+			],
+			[
+				"bs3-butt",
+				"bs3-button:primary	bs3-button-primary"
+			],
+			[
+				"ar",
+				"article"
+			],
+			[
+				"bt",
+				"bs3-button:danger	bs3-button-danger"
+			],
+			[
+				"publ",
+				"published_at"
+			],
+			[
+				"pub",
+				"published_at"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"Route",
+				"routes"
+			],
+			[
+				"req",
+				"$request〔variable〕"
+			],
+			[
+				"Re",
+				"Request"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"B",
+				"BUTTON	Tag"
+			],
+			[
+				"P",
+				"PLF	public-function"
+			],
+			[
+				"Blade",
+				"Blade::foreach	Blade @foreach"
+			],
+			[
+				"for",
+				"foreach	PHP (HTML): foreach {value} statement"
+			],
+			[
+				"Ro",
+				"Route::controller	Route a controller to a URI with wildcard routing."
+			],
+			[
+				"con",
+				"controller"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/Http/Controllers/ArticlesController.php",
+			"settings":
+			{
+				"buffer_size": 1943,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/app.blade.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/partials/flash.blade.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"res",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"larav",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ta",
+				"View: Toggle Tabs"
+			],
+			[
+				"php",
+				"PHPUnit: Run"
+			],
+			[
+				"reso",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"PHPUnit: ",
+				"PHPUnit: Run"
+			],
+			[
+				"remeve",
+				"Package Control: Remove Package"
+			],
+			[
+				"laravel make con",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"Laravel ",
+				"Laravel Artisan 5: Make:Auth"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"packagere",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 218.0,
+		"history":
+		[
+			"composer require illuminate/html"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Tanakit/Documents/learning",
+		"/C/Users/Tanakit/Documents/learning/app",
+		"/C/Users/Tanakit/Documents/learning/resources",
+		"/C/Users/Tanakit/Documents/learning/resources/views"
+	],
+	"file_history":
+	[
+		"/C/Users/Tanakit/Documents/learning/resources/assets/coffee/module.coffee",
+		"/C/Users/Tanakit/Documents/learning/gulpfile.js",
+		"/C/Users/Tanakit/Documents/learning/resources/assets/sass/app.scss",
+		"/C/Users/Tanakit/Documents/learning/public/css/app.css",
+		"/C/Users/Tanakit/Documents/learning/resources/views/app.blade.php",
+		"/C/Users/Tanakit/Documents/learning/public/build/output/final-dbc1544fb5.css",
+		"/C/Users/Tanakit/Documents/learning/public/build/output/final.css.map",
+		"/C/Users/Tanakit/Documents/learning/public/output/final.css",
+		"/C/Users/Tanakit/Documents/learning/public/css/all.css",
+		"/C/Users/Tanakit/Documents/learning/public/css/all.css.map",
+		"/C/Users/Tanakit/Documents/learning/public/css/vendor/normalize.css",
+		"/C/Users/Tanakit/Documents/learning/public/js/app.js",
+		"/C/Users/Tanakit/Documents/learning/node_modules/laravel-elixir/GulpPaths.js",
+		"/C/Users/Tanakit/Documents/learning/app/Http/Controllers/ArticlesController.php",
+		"/C/Users/Tanakit/Documents/learning/app/Providers/RouteServiceProvider.php",
+		"/C/Users/Tanakit/Documents/learning/resources/assets/sass/pages/home.scss",
+		"/C/Users/Tanakit/Documents/learning/app/Http/Controllers/Auth/AuthController.php",
+		"/C/Users/Tanakit/Documents/learning/app/Http/Middleware/Authenticate.php",
+		"/C/Users/Tanakit/Documents/learning/app/Http/Middleware/Demo.php",
+		"/C/Users/Tanakit/Documents/learning/app/Http/Kernel.php",
+		"/C/Users/Tanakit/Documents/learning/app/Http/Middleware/RedirectifNotAManager.php",
+		"/C/Users/Tanakit/Documents/learning/app/User.php",
+		"/C/Users/Tanakit/Documents/learning/app/Article.php",
+		"/C/Users/Tanakit/Documents/learning/app/Http/routes.php",
+		"/C/Users/Tanakit/Documents/learning/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Guard.php",
+		"/C/Users/Tanakit/Documents/learning/config/app.php",
+		"/C/Users/Tanakit/Documents/learning/resources/views/articles/create.blade.php",
+		"/C/Users/Tanakit/Documents/learning/resources/views/articles/form.blade.php",
+		"/C/Program Files/Sublime Text/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Tanakit/Documents/learning/database/migrations/2016_06_08_013725_create_articles_table.php",
+		"/C/Users/Tanakit/Documents/learning/app/Http/Requests/ArticleRequest.php",
+		"/C/Users/Tanakit/Documents/learning/resources/views/articles/edit.blade.php",
+		"/C/Users/Tanakit/Documents/learning/resources/views/errors/list.blade.php",
+		"/C/Program Files/Docker Toolbox/docker-compose.yml",
+		"/C/Users/Tanakit/Documents/learning/composer.json",
+		"/C/Users/Tanakit/Documents/learning/app/Http/Requests/CreateArticleRequest.php",
+		"/C/Users/Tanakit/Documents/learning/_ide_helper.php",
+		"/C/Program Files/Sublime Text/Data/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/C/Users/Tanakit/Documents/learning/resources/views/articles/show.blade.php",
+		"/C/Users/Tanakit/Documents/learning/resources/views/articles/index.blade.php",
+		"/C/Program Files/Sublime Text/Data/Packages/mysnippet/textfield.sublime-snippet",
+		"/C/Users/Tanakit/Documents/learning/vendor/illuminate/html/HtmlServiceProvider.php",
+		"/C/Users/Tanakit/Documents/learning/vendor/illuminate/html/helpers.php",
+		"/C/Program Files/Sublime Text/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Tanakit/Documents/learning/.env",
+		"/C/Users/Tanakit/Documents/learning/bootstrap/app.php",
+		"/C/Program Files/Sublime Text/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/E/code/learning-laravel-5/app/Http/routes.php",
+		"/E/code/learning-laravel-5/app/Http/Middleware/Demo.php",
+		"/E/code/learning-laravel-5/app/Http/Middleware/RedirectIfNotManager.php",
+		"/E/code/learning-laravel-5/app/Console/Kernel.php",
+		"/E/code/learning-laravel-5/app/Http/Kernel.php",
+		"/E/code/learning-laravel-5/app/Article.php",
+		"/E/code/learning-laravel-5/app/User.php",
+		"/E/code/learning-laravel-5/resources/views/articles/create.blade.php",
+		"/E/code/learning-laravel-5/resources/views/articles/form.blade.php",
+		"/E/code/learning-laravel-5/composer.json",
+		"/E/code/learning-laravel-5/app/Http/Controllers/Auth/AuthController.php",
+		"/E/code/learning-laravel-5/resources/views/welcome.blade.php",
+		"/E/code/learning-laravel-5/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/Users/QueueSystem/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/E/code/learning-laravel-5/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php",
+		"/E/code/learning-laravel-5/database/migrations/2016_05_30_231538_create_articles_table.php",
+		"/E/code/learning-laravel-5/app/Http/Controllers/ArticlesController.php",
+		"/E/code/learning-laravel-5/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php",
+		"/C/Users/QueueSystem/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/E/code/learning-laravel-5/app/Http/Requests/ArticleRequest.php",
+		"/E/code/learning-laravel-5/resources/views/errors/list.blade.php",
+		"/E/code/learning-laravel-5/resources/views/articles/edit.blade.php",
+		"/E/code/learning-laravel-5/app/Http/Requests/CreateArticleRequest.php",
+		"/E/code/learning-laravel-5/resources/views/articles/index.blade.php",
+		"/C/Users/QueueSystem/AppData/Roaming/Sublime Text 3/Settings/SideBarEnhancements.json",
+		"/C/Users/QueueSystem/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/E/code/learning-laravel-5/config/app.php",
+		"/C/Users/QueueSystem/AppData/Roaming/Sublime Text 3/Packages/Laravel 5 Snippets/snippets/Route/Route-post.sublime-snippet",
+		"/C/Users/QueueSystem/AppData/Roaming/Sublime Text 3/Packages/Laravel 5 Snippets/snippets/Route/Route-get.sublime-snippet",
+		"/E/code/learning-laravel-5/node_modules/bootstrap-sass/test/dummy_rails/app/controllers/application_controller.rb",
+		"/C/Users/QueueSystem/AppData/Roaming/Sublime Text 3/Packages/mysnippet/submit.sublime-snippet",
+		"/C/Users/QueueSystem/AppData/Roaming/Sublime Text 3/Packages/mysnippet/textarea.sublime-snippet",
+		"/C/Users/QueueSystem/AppData/Roaming/Sublime Text 3/Packages/mysnippet/textfield.sublime-snippet",
+		"/C/Users/QueueSystem/AppData/Roaming/Sublime Text 3/Packages/Terminal/PS.ps1",
+		"/C/Users/QueueSystem/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/QueueSystem/AppData/Roaming/Sublime Text 3/Packages/Terminal/PS.bat",
+		"/C/Users/QueueSystem/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default.sublime-commands",
+		"/C/Users/QueueSystem/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/E/code/learning-laravel-5/vendor/illuminate/html/HtmlServiceProvider.php",
+		"/C/Users/QueueSystem/AppData/Roaming/Sublime Text 3/Packages/mysnippet/private-function.sublime-snippet",
+		"/E/code/learning-laravel-5/vendor/illuminate/html/FormBuilder.php",
+		"/C/Users/QueueSystem/AppData/Roaming/Sublime Text 3/Packages/User/mysnippet/textfield.sublime-snippet",
+		"/C/Users/QueueSystem/AppData/Roaming/Sublime Text 3/Packages/Laravel 5 Snippets/snippets/Route/Route-controller.sublime-snippet",
+		"/C/Users/QueueSystem/AppData/Roaming/Sublime Text 3/Packages/Laravel 5 Snippets/snippets/Storage/Storage-allFiles.sublime-snippet",
+		"/C/Users/QueueSystem/AppData/Roaming/Sublime Text 3/Packages/User/mysnippet/public-function.sublime-snippet",
+		"/C/wamp64/bin/apache/apache2.4.17/conf/httpd.conf",
+		"/C/wamp64/bin/apache/apache2.4.17/bin/php.ini",
+		"/C/wamp64/www/my-site/index.php",
+		"/E/code/learning-laravel-5/app/Http/Controllers/WelcomeController.php",
+		"/C/test.html",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/wamp64/bin/apache/apache2.4.17/conf/extra/httpd-vhosts.conf",
+		"/E/code/learning-laravel-5/learning-laravel-5.sublime-project",
+		"/E/Laravel/site/site2/app/Http/Controllers/CardsController.php",
+		"/E/Laravel/site/site2/resources/views/cards/index.blade.php",
+		"/E/Laravel/site/site2/app/Http/routes.php",
+		"/E/Laravel/site/site2/resources/views/cards/show.blade.php",
+		"/E/Laravel/site/site2/app/Http/Controllers/NotesController.php",
+		"/E/Laravel/site/site2/app/Note.php",
+		"/E/Laravel/site/site2/app/Card.php",
+		"/C/Users/QueueSystem/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/E/Laravel/site/site2/app/User.php",
+		"/E/Laravel/site/site2/database/migrations/2016_05_28_044331_create_notes_table.php",
+		"/E/Laravel/site/site2/resources/views/notes/edit.blade.php",
+		"/C/Users/QueueSystem/AppData/Roaming/Sublime Text 3/Packages/Origami/Default (Windows).sublime-keymap",
+		"/E/Laravel/site/site2/resources/assets/sass/app.scss",
+		"/C/Users/QueueSystem/AppData/Roaming/Sublime Text 3/Packages/Origami/Origami.sublime-settings",
+		"/E/Laravel/site/site2/database/migrations/2016_05_27_003107_create_cards_table.php",
+		"/E/Laravel/site/site2/tests/TestCase.php",
+		"/E/Laravel/site/site2/resources/views/layouts/app.blade.php",
+		"/E/Laravel/site/site2/composer.json",
+		"/C/Users/QueueSystem/AppData/Roaming/Sublime Text 3/Packages/PHPUnit/PHPUnit.sublime-settings",
+		"/E/Laravel/site/site2/config/app.php",
+		"/C/Program Files/cmder/config/aliases",
+		"/E/Laravel/site/site2/config/database.php",
+		"/E/Laravel/site/site2/.env",
+		"/E/Laravel/site/site2/resources/views/menubar.blade.php",
+		"/C/Users/QueueSystem/AppData/Roaming/Sublime Text 3/Packages/User/mysnippet/private-function.sublime-snippet",
+		"/C/Users/QueueSystem/AppData/Roaming/Sublime Text 3/Packages/User/mysnippet/protected-function.sublime-snippet",
+		"/C/Users/QueueSystem/AppData/Roaming/Sublime Text 3/Packages/Laravel 5 Snippets/snippets/Route/Route-resource.sublime-snippet",
+		"/E/Laravel/site/site2/.htaccess"
+	],
+	"find":
+	{
+		"height": 75.0
+	},
+	"find_in_files":
+	{
+		"height": 173.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"{\n",
+			"Name",
+			"name",
+			"bindShared",
+			"user",
+			"redirectPath",
+			"ul",
+			"}}\n",
+			"\"\n",
+			"%\"",
+			"$",
+			"%",
+			"๔",
+			"$",
+			"title",
+			"name",
+			"Name",
+			"name",
+			"Name",
+			"name",
+			"form",
+			"dll",
+			"extension",
+			"extension=PDO",
+			"extension",
+			"Font",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/Http/Controllers/ArticlesController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1943,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1205,
+								1205
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1496.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/views/app.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/views/partials/flash.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 70.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 152.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Laravel 5 Fundamentals.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gulppa",
+				"node_modules\\laravel-elixir\\GulpPaths.js"
+			],
+			[
+				"rout",
+				"app\\Http\\routes.php"
+			],
+			[
+				"form",
+				"resources\\views\\articles\\form.blade.php"
+			],
+			[
+				"cr",
+				"resources\\views\\articles\\create.blade.php"
+			],
+			[
+				"articl",
+				"app\\Http\\Controllers\\ArticlesController.php"
+			],
+			[
+				"a",
+				"app\\Article.php"
+			],
+			[
+				"create",
+				"resources\\views\\articles\\create.blade.php"
+			],
+			[
+				"",
+				"app\\Http\\Controllers\\ArticlesController.php"
+			],
+			[
+				"ar",
+				"app\\Article.php"
+			],
+			[
+				"ro",
+				"app\\Http\\routes.php"
+			],
+			[
+				"article",
+				"app\\Http\\Controllers\\ArticlesController.php"
+			],
+			[
+				".e",
+				".env"
+			],
+			[
+				"app",
+				"config\\app.php"
+			],
+			[
+				"route",
+				"app\\Http\\routes.php"
+			],
+			[
+				"rou",
+				"app\\Http\\routes.php"
+			],
+			[
+				"ker",
+				"app\\Console\\Kernel.php"
+			],
+			[
+				"user",
+				"app\\User.php"
+			],
+			[
+				"ariclecon",
+				"app\\Http\\Controllers\\ArticlesController.php"
+			],
+			[
+				"article/form",
+				"resources\\views\\articles\\form.blade.php"
+			],
+			[
+				"article/crea",
+				"resources\\views\\articles\\create.blade.php"
+			],
+			[
+				"facade",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php"
+			],
+			[
+				"authenticatea",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\AuthenticatesAndRegistersUsers.php"
+			],
+			[
+				"arti",
+				"app\\Article.php"
+			],
+			[
+				"index.blad",
+				"resources\\views\\articles\\index.blade.php"
+			],
+			[
+				"articlescontroller",
+				"app\\Http\\Controllers\\ArticlesController.php"
+			],
+			[
+				"show",
+				"resources\\views\\cards\\show.blade.php"
+			],
+			[
+				"card",
+				"app\\Http\\Controllers\\CardsController.php"
+			],
+			[
+				"create_no",
+				"database\\migrations\\2016_05_28_044331_create_notes_table.php"
+			],
+			[
+				"notescontroller",
+				"app\\Http\\Controllers\\NotesController.php"
+			],
+			[
+				"app.scss",
+				"resources\\assets\\sass\\app.scss"
+			],
+			[
+				"cardcon",
+				"app\\Http\\Controllers\\CardsController.php"
+			],
+			[
+				"index.bla",
+				"resources\\views\\cards\\index.blade.php"
+			],
+			[
+				"not",
+				"app\\Note.php"
+			],
+			[
+				"create_note",
+				"database\\migrations\\2016_05_28_044331_create_notes_table.php"
+			],
+			[
+				"test",
+				"tests\\TestCase.php"
+			],
+			[
+				"car",
+				"app\\Http\\Controllers\\CardsController.php"
+			],
+			[
+				"cards/in",
+				"resources\\views\\cards\\index.blade.php"
+			],
+			[
+				"cardc",
+				"app\\Http\\Controllers\\CardsController.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\Laravel\\site\\site1\\site1.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 533.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
